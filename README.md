@@ -1,10 +1,10 @@
-# devtools-fp07
-A nifty android utility library for working with near field communication (nfc), fingerprint reader and more on the fp07 device.
+# enrolment-fp07
+A nifty (Android) library for reading and capturing fingerprint on the fgtit-fp07 mobile device
 Official release library for fgtit-fp07 device.
 
 Usage:
 
-Step 1. Add the JitPack repository to your build file or
+Step 1. Add the JitPack repository to your build fileor
 Add it in your root build.gradle at the end of repositories:
 
 ```gradle
@@ -21,12 +21,11 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 ```gradle
     dependencies {
-    	        compile 'com.github.interwap:devtools-fp07:v2.0'
+    	        compile 'com.github.interwap:enrolment-fp07:v1.0'
     	}
  ```
 
-Get more information about versions and releases here: [`jitpack`](https://jitpack.io/#interwap/devtools-fp07/v2.0)
-
+Get more information about versions and releases here: [`jitpack`](https://jitpack.io/#interwap/enrolment-fp07/v1.0)
 
 License
 =======
